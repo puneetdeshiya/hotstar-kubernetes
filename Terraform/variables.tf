@@ -3,7 +3,7 @@ variable "instance_name" {
 }
 
 variable "key_name" {
-  default = "terra"                  # Names of key in aws
+  default = "is-dev-euw-master-key1"                  # Names of key in aws
 }
 
 
